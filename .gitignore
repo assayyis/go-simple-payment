@@ -1,0 +1,39 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below if you want to include them)
+# vendor/
+
+# Output files from `go tool cover`
+*.html
+
+# Output directory
+/bin/
+
+# Uncomment the following line if you're using VS Code
+# .vscode/
+
+# Environment variables file
+.env
+
+# macOS specific files
+.DS_Store
+
+# Go specific editor files
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Go package files
+*.pkg
+*.a
